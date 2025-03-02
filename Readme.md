@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Константин Ермихин](https://up.htmlacademy.ru/javascript-individual/2/user/2415207).
-* Наставник: `Неизвестно`.
+* Наставник: [Геннадий Максимов](https://htmlacademy.ru/profile/gennadiy).
 
 ---
 
